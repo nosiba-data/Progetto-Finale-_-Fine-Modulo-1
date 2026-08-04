@@ -2,15 +2,15 @@ Analisi del patrimonio ricettivo della Regione Marche — pulizia dati con Power
 # Analisi Patrimonio Ricettivo - Regione Marche
 
 ## File
-- `query_finale.xlsx` — file Excel completo con tutti gli esercizi (18)
-- `power_query_steps.pptx` — presentazione sui passaggi di pulizia dati
+- `Progetto Fine Modello_Analisi del Patrimonio Ricettivo le Marche_RV` — file Excel completo con tutti gli esercizi (18)
+- `Presentazione Progetto fine Modello - Analisi del Patrimonio Ricettivo le Marche ` — presentazione PDF sui passaggi di dati
 
 ## Struttura del file Excel
-- Pulizia dati (Power Query): Prezzi_RAW/Puliti, Strutture ricettive_RAW/Pulito, Conteggio_Strutture
-- RICERCA: maschera di ricerca struttura
+- Indici: riepilogo del esercizi  
+- Pulizia dati (Power Query): Strutture ricettive_Pulito_M 
+- RICERCA: maschera di ricerca struttura, gli esercizi in questo foglio sono stati compilati dal foglio Strutture ricettive_Pulito_RAW
 - Prezzi_Medi: statistica, probabilità, inferenza
+- Conteggio strutture: Raggruppa (power Query)
 - Correlazione: correlazione e regressione
 - Dashboard: riepilogo del progetto
 
-## Nota
-Le colonne Email e Sito Web erano scambiate nel dataset originale, risolte in Power Query.
