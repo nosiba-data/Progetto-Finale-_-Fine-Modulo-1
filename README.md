@@ -2,8 +2,8 @@ Analisi del patrimonio ricettivo della Regione Marche — pulizia dati con Power
 # Analisi Patrimonio Ricettivo - Regione Marche
 
 ## File
-- `Progetto Fine Modello_Analisi del Patrimonio Ricettivo le Marche_RV` — file Excel completo con tutti gli esercizi (18)
-- `Presentazione Progetto fine Modello - Analisi del Patrimonio Ricettivo le Marche ` — presentazione PDF sui passaggi di dati
+- `Progetto Fine Modulo_Analisi del Patrimonio Ricettivo le Marche_RV` — file Excel completo con tutti gli esercizi (18)
+- `Presentazione Progetto fine Modulo - Analisi del Patrimonio Ricettivo le Marche ` — presentazione PDF sui passaggi di dati
 
 ## Struttura del file Excel
 - Indici: riepilogo del esercizi  
